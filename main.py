@@ -1,5 +1,6 @@
+import itertools
 import spotipy
-import json
+import pandas as pd
 from spotipy.oauth2 import SpotifyClientCredentials, SpotifyOAuth
 
 cid = '3e9a51fcef934a0aba70f488dbb3dae2'
@@ -26,11 +27,14 @@ for artist_id in artists_id:
             related_artists[related_artist_id] = related_artists.get(related_artist_id, 0) + 1
 
 related_artists = {k: v for k, v in sorted(related_artists.items(), key=lambda item: item[1], reverse=True)}
+related_artists= dict(itertools.islice(related_artists.items(), 10))
 
-data = {}
+
 related_artist_names = []
 related_artists_top_tracks = []
-related_artist_top_album = []
+related_artist_top_albums = []
+
+
 
 def top_tracks(artist):
     artist_top_tracks_information = sp.artist_top_tracks(artist,'US')['tracks']
@@ -40,17 +44,24 @@ def top_tracks(artist):
     return ';'.join(artist_top_tracks)
 
 def top_album(artist):
-    artist_top_album_information = sp.artist_albums(artist,album_type='album')['item']
-    artist_albums = []
-    for album in artist_top_album_information:
-        artist_albums.append(album['name'])
-    return ';'.join(artist_albums)
+    artist_top_album_information = sp.artist_albums(artist,album_type='album')['items']
+    artist_album = artist_top_album_information[0]['name']
+    return artist_album
 
 
 
-for related_artist in related_artist_id:
-    related_artist_names.append(sp.artist(related_artist)['name'])
+for related_artist in related_artists.keys():
+    name = sp.artist(related_artist)['name']
+    related_artist_names.append(name)
     related_artists_top_tracks.append(top_tracks(related_artist))
+    related_artist_top_albums.append(top_album(related_artist))
+
+data = pd.DataFrame({"Name": related_artist_names,
+                    "Top Tracks": related_artists_top_tracks,
+                    "Top Albums": related_artist_top_albums})
+
+print(data.to_string())
+
 
 
 
