@@ -1,0 +1,934 @@
+{
+  "tracks": [
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+            },
+            "href": "https://api.spotify.com/v1/artists/0ONHkAv9pCAFxb0zJwDNTy",
+            "id": "0ONHkAv9pCAFxb0zJwDNTy",
+            "name": "Pusha T",
+            "type": "artist",
+            "uri": "spotify:artist:0ONHkAv9pCAFxb0zJwDNTy"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH"
+        },
+        "href": "https://api.spotify.com/v1/albums/6o38CdD7CUlZDCFhjZYLDH",
+        "id": "6o38CdD7CUlZDCFhjZYLDH",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273e27dfef438562f2ecb98a642",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02e27dfef438562f2ecb98a642",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851e27dfef438562f2ecb98a642",
+            "width": 64
+          }
+        ],
+        "name": "It's Almost Dry",
+        "release_date": "2022-04-22",
+        "release_date_precision": "day",
+        "total_tracks": 12,
+        "type": "album",
+        "uri": "spotify:album:6o38CdD7CUlZDCFhjZYLDH"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ONHkAv9pCAFxb0zJwDNTy",
+          "id": "0ONHkAv9pCAFxb0zJwDNTy",
+          "name": "Pusha T",
+          "type": "artist",
+          "uri": "spotify:artist:0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          },
+          "href": "https://api.spotify.com/v1/artists/4O15NlyKLIASxsJ0PrXPfz",
+          "id": "4O15NlyKLIASxsJ0PrXPfz",
+          "name": "Lil Uzi Vert",
+          "type": "artist",
+          "uri": "spotify:artist:4O15NlyKLIASxsJ0PrXPfz"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Gso3d4CscCijv0lmajZWs",
+          "id": "4Gso3d4CscCijv0lmajZWs",
+          "name": "Don Toliver",
+          "type": "artist",
+          "uri": "spotify:artist:4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 152612,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USUM72203832"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1dp8aQANyTRKssDeAYPiZe"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1dp8aQANyTRKssDeAYPiZe",
+      "id": "1dp8aQANyTRKssDeAYPiZe",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Scrape It Off (feat. Lil Uzi Vert & Don Toliver)",
+      "popularity": 74,
+      "preview_url": "https://p.scdn.co/mp3-preview/67e2db2c646aa4e19bfe23857e202243cac79d4b?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:1dp8aQANyTRKssDeAYPiZe"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+            },
+            "href": "https://api.spotify.com/v1/artists/0ONHkAv9pCAFxb0zJwDNTy",
+            "id": "0ONHkAv9pCAFxb0zJwDNTy",
+            "name": "Pusha T",
+            "type": "artist",
+            "uri": "spotify:artist:0ONHkAv9pCAFxb0zJwDNTy"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH"
+        },
+        "href": "https://api.spotify.com/v1/albums/6o38CdD7CUlZDCFhjZYLDH",
+        "id": "6o38CdD7CUlZDCFhjZYLDH",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273e27dfef438562f2ecb98a642",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02e27dfef438562f2ecb98a642",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851e27dfef438562f2ecb98a642",
+            "width": 64
+          }
+        ],
+        "name": "It's Almost Dry",
+        "release_date": "2022-04-22",
+        "release_date_precision": "day",
+        "total_tracks": 12,
+        "type": "album",
+        "uri": "spotify:album:6o38CdD7CUlZDCFhjZYLDH"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ONHkAv9pCAFxb0zJwDNTy",
+          "id": "0ONHkAv9pCAFxb0zJwDNTy",
+          "name": "Pusha T",
+          "type": "artist",
+          "uri": "spotify:artist:0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x",
+          "name": "Kanye West",
+          "type": "artist",
+          "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 173633,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USUM72203764"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3Wx98ijEDnsxyMYePCuFNI"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3Wx98ijEDnsxyMYePCuFNI",
+      "id": "3Wx98ijEDnsxyMYePCuFNI",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Dreamin Of The Past (feat. Kanye West)",
+      "popularity": 67,
+      "preview_url": "https://p.scdn.co/mp3-preview/1702a158e43d76df6ba63b442b2468299f7fae78?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:3Wx98ijEDnsxyMYePCuFNI"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+            },
+            "href": "https://api.spotify.com/v1/artists/0ONHkAv9pCAFxb0zJwDNTy",
+            "id": "0ONHkAv9pCAFxb0zJwDNTy",
+            "name": "Pusha T",
+            "type": "artist",
+            "uri": "spotify:artist:0ONHkAv9pCAFxb0zJwDNTy"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH"
+        },
+        "href": "https://api.spotify.com/v1/albums/6o38CdD7CUlZDCFhjZYLDH",
+        "id": "6o38CdD7CUlZDCFhjZYLDH",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273e27dfef438562f2ecb98a642",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02e27dfef438562f2ecb98a642",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851e27dfef438562f2ecb98a642",
+            "width": 64
+          }
+        ],
+        "name": "It's Almost Dry",
+        "release_date": "2022-04-22",
+        "release_date_precision": "day",
+        "total_tracks": 12,
+        "type": "album",
+        "uri": "spotify:album:6o38CdD7CUlZDCFhjZYLDH"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ONHkAv9pCAFxb0zJwDNTy",
+          "id": "0ONHkAv9pCAFxb0zJwDNTy",
+          "name": "Pusha T",
+          "type": "artist",
+          "uri": "spotify:artist:0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x",
+          "name": "Kanye West",
+          "type": "artist",
+          "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+          },
+          "href": "https://api.spotify.com/v1/artists/0fA0VVWsXO9YnASrzqfmYu",
+          "id": "0fA0VVWsXO9YnASrzqfmYu",
+          "name": "Kid Cudi",
+          "type": "artist",
+          "uri": "spotify:artist:0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 233922,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USUM72203823"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1ZM8toCOlnfBKJdvR8GqUq"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1ZM8toCOlnfBKJdvR8GqUq",
+      "id": "1ZM8toCOlnfBKJdvR8GqUq",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Rock N Roll (feat. Kanye West & Kid Cudi)",
+      "popularity": 66,
+      "preview_url": "https://p.scdn.co/mp3-preview/e3b1caf6043694bae8cf14b2cb3a0bfc01492b13?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:1ZM8toCOlnfBKJdvR8GqUq"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+            },
+            "href": "https://api.spotify.com/v1/artists/0ONHkAv9pCAFxb0zJwDNTy",
+            "id": "0ONHkAv9pCAFxb0zJwDNTy",
+            "name": "Pusha T",
+            "type": "artist",
+            "uri": "spotify:artist:0ONHkAv9pCAFxb0zJwDNTy"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH"
+        },
+        "href": "https://api.spotify.com/v1/albums/6o38CdD7CUlZDCFhjZYLDH",
+        "id": "6o38CdD7CUlZDCFhjZYLDH",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273e27dfef438562f2ecb98a642",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02e27dfef438562f2ecb98a642",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851e27dfef438562f2ecb98a642",
+            "width": 64
+          }
+        ],
+        "name": "It's Almost Dry",
+        "release_date": "2022-04-22",
+        "release_date_precision": "day",
+        "total_tracks": 12,
+        "type": "album",
+        "uri": "spotify:album:6o38CdD7CUlZDCFhjZYLDH"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ONHkAv9pCAFxb0zJwDNTy",
+          "id": "0ONHkAv9pCAFxb0zJwDNTy",
+          "name": "Pusha T",
+          "type": "artist",
+          "uri": "spotify:artist:0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+          },
+          "href": "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+          "id": "3nFkdlSjzX9mRTtwJOzDYB",
+          "name": "JAY-Z",
+          "type": "artist",
+          "uri": "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2RdwBSPQiwcmiDo9kixcl8",
+          "id": "2RdwBSPQiwcmiDo9kixcl8",
+          "name": "Pharrell Williams",
+          "type": "artist",
+          "uri": "spotify:artist:2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 209314,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USUM72121118"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7kQJCw0ZkvHgfJqRwPblmG"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7kQJCw0ZkvHgfJqRwPblmG",
+      "id": "7kQJCw0ZkvHgfJqRwPblmG",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Neck & Wrist (feat. JAY-Z & Pharrell Williams)",
+      "popularity": 64,
+      "preview_url": "https://p.scdn.co/mp3-preview/2798a908ea73f0267d24df361d44c1dc14743bc3?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:7kQJCw0ZkvHgfJqRwPblmG"
+    },
+    {
+      "album": {
+        "album_type": "compilation",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+            },
+            "href": "https://api.spotify.com/v1/artists/0ONHkAv9pCAFxb0zJwDNTy",
+            "id": "0ONHkAv9pCAFxb0zJwDNTy",
+            "name": "Pusha T",
+            "type": "artist",
+            "uri": "spotify:artist:0ONHkAv9pCAFxb0zJwDNTy"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4YXvNse2P5iuKtCPh91o8q"
+        },
+        "href": "https://api.spotify.com/v1/albums/4YXvNse2P5iuKtCPh91o8q",
+        "id": "4YXvNse2P5iuKtCPh91o8q",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2731a6947dc638afd847076c4e0",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e021a6947dc638afd847076c4e0",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048511a6947dc638afd847076c4e0",
+            "width": 64
+          }
+        ],
+        "name": "G.O.O.D.",
+        "release_date": "2022-04-01",
+        "release_date_precision": "day",
+        "total_tracks": 5,
+        "type": "album",
+        "uri": "spotify:album:4YXvNse2P5iuKtCPh91o8q"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x",
+          "name": "Kanye West",
+          "type": "artist",
+          "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+          },
+          "href": "https://api.spotify.com/v1/artists/15iVAtD3s3FsQR4w1v6M0P",
+          "id": "15iVAtD3s3FsQR4w1v6M0P",
+          "name": "Chief Keef",
+          "type": "artist",
+          "uri": "spotify:artist:15iVAtD3s3FsQR4w1v6M0P"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ONHkAv9pCAFxb0zJwDNTy",
+          "id": "0ONHkAv9pCAFxb0zJwDNTy",
+          "name": "Pusha T",
+          "type": "artist",
+          "uri": "spotify:artist:0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+          },
+          "href": "https://api.spotify.com/v1/artists/0c173mlxpT3dSFRgMO8XPh",
+          "id": "0c173mlxpT3dSFRgMO8XPh",
+          "name": "Big Sean",
+          "type": "artist",
+          "uri": "spotify:artist:0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi"
+          },
+          "href": "https://api.spotify.com/v1/artists/5pnbUBPifNnlusY8kTBivi",
+          "id": "5pnbUBPifNnlusY8kTBivi",
+          "name": "Jadakiss",
+          "type": "artist",
+          "uri": "spotify:artist:5pnbUBPifNnlusY8kTBivi"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 283653,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USUM71209911"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3YqJ0iaDWM0aqEDQExd2j3"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3YqJ0iaDWM0aqEDQExd2j3",
+      "id": "3YqJ0iaDWM0aqEDQExd2j3",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Don't Like.1",
+      "popularity": 62,
+      "preview_url": "https://p.scdn.co/mp3-preview/98ae0296a537caf0f7a5515b79933392414c7615?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:3YqJ0iaDWM0aqEDQExd2j3"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+            },
+            "href": "https://api.spotify.com/v1/artists/7CajNmpbOovFoOoasH2HaY",
+            "id": "7CajNmpbOovFoOoasH2HaY",
+            "name": "Calvin Harris",
+            "type": "artist",
+            "uri": "spotify:artist:7CajNmpbOovFoOoasH2HaY"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/49DV9eFp2xTdtO7veew5xS"
+        },
+        "href": "https://api.spotify.com/v1/albums/49DV9eFp2xTdtO7veew5xS",
+        "id": "49DV9eFp2xTdtO7veew5xS",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273c5844aae8ac82f2a4fa6415e",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02c5844aae8ac82f2a4fa6415e",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851c5844aae8ac82f2a4fa6415e",
+            "width": 64
+          }
+        ],
+        "name": "Funk Wav Bounces Vol. 2",
+        "release_date": "2022-08-05",
+        "release_date_precision": "day",
+        "total_tracks": 14,
+        "type": "album",
+        "uri": "spotify:album:49DV9eFp2xTdtO7veew5xS"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+          },
+          "href": "https://api.spotify.com/v1/artists/7CajNmpbOovFoOoasH2HaY",
+          "id": "7CajNmpbOovFoOoasH2HaY",
+          "name": "Calvin Harris",
+          "type": "artist",
+          "uri": "spotify:artist:7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2RdwBSPQiwcmiDo9kixcl8",
+          "id": "2RdwBSPQiwcmiDo9kixcl8",
+          "name": "Pharrell Williams",
+          "type": "artist",
+          "uri": "spotify:artist:2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ONHkAv9pCAFxb0zJwDNTy",
+          "id": "0ONHkAv9pCAFxb0zJwDNTy",
+          "name": "Pusha T",
+          "type": "artist",
+          "uri": "spotify:artist:0ONHkAv9pCAFxb0zJwDNTy"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 200377,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "GBARL2201595"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2wgbyESBZ7xBkxYN2bSDOL"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2wgbyESBZ7xBkxYN2bSDOL",
+      "id": "2wgbyESBZ7xBkxYN2bSDOL",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Day One (with Pharrell & Pusha T)",
+      "popularity": 62,
+      "preview_url": "https://p.scdn.co/mp3-preview/ae281f8cf5593e262b097c160463407ccd2b50bc?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:2wgbyESBZ7xBkxYN2bSDOL"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+            },
+            "href": "https://api.spotify.com/v1/artists/6XyY86QOPPrYVGvF9ch6wz",
+            "id": "6XyY86QOPPrYVGvF9ch6wz",
+            "name": "Linkin Park",
+            "type": "artist",
+            "uri": "spotify:artist:6XyY86QOPPrYVGvF9ch6wz"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5Eevxp2BCbWq25ZdiXRwYd"
+        },
+        "href": "https://api.spotify.com/v1/albums/5Eevxp2BCbWq25ZdiXRwYd",
+        "id": "5Eevxp2BCbWq25ZdiXRwYd",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273145e1cf12538f5666511237d",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02145e1cf12538f5666511237d",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851145e1cf12538f5666511237d",
+            "width": 64
+          }
+        ],
+        "name": "One More Light",
+        "release_date": "2017-05-19",
+        "release_date_precision": "day",
+        "total_tracks": 10,
+        "type": "album",
+        "uri": "spotify:album:5Eevxp2BCbWq25ZdiXRwYd"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+          },
+          "href": "https://api.spotify.com/v1/artists/6XyY86QOPPrYVGvF9ch6wz",
+          "id": "6XyY86QOPPrYVGvF9ch6wz",
+          "name": "Linkin Park",
+          "type": "artist",
+          "uri": "spotify:artist:6XyY86QOPPrYVGvF9ch6wz"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ONHkAv9pCAFxb0zJwDNTy",
+          "id": "0ONHkAv9pCAFxb0zJwDNTy",
+          "name": "Pusha T",
+          "type": "artist",
+          "uri": "spotify:artist:0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+          },
+          "href": "https://api.spotify.com/v1/artists/2SrSdSvpminqmStGELCSNd",
+          "id": "2SrSdSvpminqmStGELCSNd",
+          "name": "Stormzy",
+          "type": "artist",
+          "uri": "spotify:artist:2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 211413,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USWB11700219"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/650OeHTLxZAQmb4aEbGmaA"
+      },
+      "href": "https://api.spotify.com/v1/tracks/650OeHTLxZAQmb4aEbGmaA",
+      "id": "650OeHTLxZAQmb4aEbGmaA",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Good Goodbye (feat. Pusha T and Stormzy)",
+      "popularity": 62,
+      "preview_url": "https://p.scdn.co/mp3-preview/7c2d711c15a800b97ad54ed610d8f6d0d5421d09?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:650OeHTLxZAQmb4aEbGmaA"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+            },
+            "href": "https://api.spotify.com/v1/artists/0ONHkAv9pCAFxb0zJwDNTy",
+            "id": "0ONHkAv9pCAFxb0zJwDNTy",
+            "name": "Pusha T",
+            "type": "artist",
+            "uri": "spotify:artist:0ONHkAv9pCAFxb0zJwDNTy"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH"
+        },
+        "href": "https://api.spotify.com/v1/albums/6o38CdD7CUlZDCFhjZYLDH",
+        "id": "6o38CdD7CUlZDCFhjZYLDH",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273e27dfef438562f2ecb98a642",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02e27dfef438562f2ecb98a642",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851e27dfef438562f2ecb98a642",
+            "width": 64
+          }
+        ],
+        "name": "It's Almost Dry",
+        "release_date": "2022-04-22",
+        "release_date_precision": "day",
+        "total_tracks": 12,
+        "type": "album",
+        "uri": "spotify:album:6o38CdD7CUlZDCFhjZYLDH"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ONHkAv9pCAFxb0zJwDNTy",
+          "id": "0ONHkAv9pCAFxb0zJwDNTy",
+          "name": "Pusha T",
+          "type": "artist",
+          "uri": "spotify:artist:0ONHkAv9pCAFxb0zJwDNTy"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 180164,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USUM72201218"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2qDTVDLjK4PctCvC8Mg19x"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2qDTVDLjK4PctCvC8Mg19x",
+      "id": "2qDTVDLjK4PctCvC8Mg19x",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Diet Coke",
+      "popularity": 62,
+      "preview_url": "https://p.scdn.co/mp3-preview/0b399f2eb6037bc19372313b2b4f2e8125efdc8c?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:2qDTVDLjK4PctCvC8Mg19x"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+            },
+            "href": "https://api.spotify.com/v1/artists/0ONHkAv9pCAFxb0zJwDNTy",
+            "id": "0ONHkAv9pCAFxb0zJwDNTy",
+            "name": "Pusha T",
+            "type": "artist",
+            "uri": "spotify:artist:0ONHkAv9pCAFxb0zJwDNTy"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/42oQv8fbI5CbeuAasf2ILC"
+        },
+        "href": "https://api.spotify.com/v1/albums/42oQv8fbI5CbeuAasf2ILC",
+        "id": "42oQv8fbI5CbeuAasf2ILC",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273861ecd2783b33bde98760364",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02861ecd2783b33bde98760364",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851861ecd2783b33bde98760364",
+            "width": 64
+          }
+        ],
+        "name": "My Name Is My Name",
+        "release_date": "2013-10-31",
+        "release_date_precision": "day",
+        "total_tracks": 12,
+        "type": "album",
+        "uri": "spotify:album:42oQv8fbI5CbeuAasf2ILC"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ONHkAv9pCAFxb0zJwDNTy",
+          "id": "0ONHkAv9pCAFxb0zJwDNTy",
+          "name": "Pusha T",
+          "type": "artist",
+          "uri": "spotify:artist:0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          },
+          "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+          "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+          "name": "Kendrick Lamar",
+          "type": "artist",
+          "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 216066,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USUM71311909"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7aK5rlTVxSgcqShPMI1TTH"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7aK5rlTVxSgcqShPMI1TTH",
+      "id": "7aK5rlTVxSgcqShPMI1TTH",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Nosetalgia",
+      "popularity": 62,
+      "preview_url": "https://p.scdn.co/mp3-preview/a0896e78a9dce003443dc44620ff940a37e98d31?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:7aK5rlTVxSgcqShPMI1TTH"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+            },
+            "href": "https://api.spotify.com/v1/artists/0ONHkAv9pCAFxb0zJwDNTy",
+            "id": "0ONHkAv9pCAFxb0zJwDNTy",
+            "name": "Pusha T",
+            "type": "artist",
+            "uri": "spotify:artist:0ONHkAv9pCAFxb0zJwDNTy"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6ZS2NOEZ7XwlNlKWK2dzPM"
+        },
+        "href": "https://api.spotify.com/v1/albums/6ZS2NOEZ7XwlNlKWK2dzPM",
+        "id": "6ZS2NOEZ7XwlNlKWK2dzPM",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2732749e1b9049f703e43ece068",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e022749e1b9049f703e43ece068",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048512749e1b9049f703e43ece068",
+            "width": 64
+          }
+        ],
+        "name": "Fear of God II: Let Us Pray",
+        "release_date": "2011-11-08",
+        "release_date_precision": "day",
+        "total_tracks": 12,
+        "type": "album",
+        "uri": "spotify:album:6ZS2NOEZ7XwlNlKWK2dzPM"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ONHkAv9pCAFxb0zJwDNTy",
+          "id": "0ONHkAv9pCAFxb0zJwDNTy",
+          "name": "Pusha T",
+          "type": "artist",
+          "uri": "spotify:artist:0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+          },
+          "href": "https://api.spotify.com/v1/artists/4V8LLVI7PbaPR0K2TGSxFF",
+          "id": "4V8LLVI7PbaPR0K2TGSxFF",
+          "name": "Tyler, The Creator",
+          "type": "artist",
+          "uri": "spotify:artist:4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 212506,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "US2Q81100050"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3DzlR0kXE6shimFVhSwI4A"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3DzlR0kXE6shimFVhSwI4A",
+      "id": "3DzlR0kXE6shimFVhSwI4A",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Trouble on My Mind",
+      "popularity": 62,
+      "preview_url": "https://p.scdn.co/mp3-preview/c018c0f512edd7d8b2e865cf5d2c5391afc655b9?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:3DzlR0kXE6shimFVhSwI4A"
+    }
+  ]
+}
