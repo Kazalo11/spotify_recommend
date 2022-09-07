@@ -27,7 +27,7 @@ for artist_id in artists_id:
             related_artists[related_artist_id] = related_artists.get(related_artist_id, 0) + 1
 
 related_artists = {k: v for k, v in sorted(related_artists.items(), key=lambda item: item[1], reverse=True)}
-related_artists= dict(itertools.islice(related_artists.items(), 10))
+related_artists = dict(itertools.islice(related_artists.items(), 10))
 
 
 related_artist_names = []
@@ -39,9 +39,9 @@ related_artist_top_albums = []
 def top_tracks(artist):
     artist_top_tracks_information = sp.artist_top_tracks(artist,'US')['tracks']
     artist_top_tracks = []
-    for track in artist_top_tracks_information:
-        artist_top_tracks.append(track['name'])
-    return ';'.join(artist_top_tracks)
+    for i in range(3):
+        artist_top_tracks.append(artist_top_tracks_information[i]['name'])
+    return artist_top_tracks
 
 def top_album(artist):
     artist_top_album_information = sp.artist_albums(artist,album_type='album')['items']
